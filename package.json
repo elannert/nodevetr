@@ -10,7 +10,7 @@
   "main": "api.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodevetr/nodevetr.git"
+    "url": "git+https://github.com/elannert/nodevetr.git"
   },
   "contributors": [
     {
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodevetr/nodevetr/issues"
+    "url": "https://github.com/elannert/nodevetr/issues"
   },
-  "homepage": "http://nodeadmin.github.io/nodevetr",
+  "homepage": "https://github.com/elannert/nodevetr",
   "dependencies": {
     "request": "^2.65.0"
   },
