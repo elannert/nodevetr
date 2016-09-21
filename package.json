@@ -1,0 +1,35 @@
+{
+  "name": "nodevetr",
+  "version": "0.0.1",
+  "description": "A node interface to the vetr api",
+  "keywords": [
+    "vetr",
+    "investing",
+    "fintech"
+  ],
+  "main": "api.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodevetr/nodevetr.git"
+  },
+  "contributors": [
+    {
+      "name": "Eric Lannert",
+      "url": "https://github.com/elannert"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodevetr/nodevetr/issues"
+  },
+  "homepage": "http://nodeadmin.github.io/nodevetr",
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "maintainers": [
+    {
+      "name": "elannert",
+      "email": "eric.lannert@gmail.com"
+    }
+  ]
+}
